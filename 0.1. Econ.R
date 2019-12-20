@@ -2,10 +2,6 @@ library(iFinDR)
 library(RJSONIO)
 ret = THS_iFinDLogin("hxjy106","666888")
 
-
-
-
-
 filepath="C:/Users/LENOVO/Desktop/Pro4/initial/0..txt"
 file.create(filepath)
   
